@@ -1,4 +1,4 @@
-nome = input("Tyoe your name: ")
+nome = input("Tyoe your full name: ")
 print("Good Night")
 print("Welcome, " + nome)
 print("thanks")
